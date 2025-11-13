@@ -1,0 +1,13 @@
+{
+  "name": "candlebrain-tracking",
+  "version": "1.0.0",
+  "main": "event_server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node event_server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.6"
+  }
+}

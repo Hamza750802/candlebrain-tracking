@@ -1,5 +1,4 @@
 // event_server.js
-require("dotenv").config();
 
 const express = require("express");
 const sqlite3 = require("sqlite3").verbose();
